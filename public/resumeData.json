@@ -4,14 +4,14 @@
     "occupation": "Software Engineer",
     "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio": "Passionate about creating innovative solutions with experience building full stack applications with Ruby, Rails, JavaScript, React, SQL databases, and RESTful API architecture. Emerging from a career in Education, I traded the classroom and school leadership for coding when working with software engineers to improve software usability and create better communication lines to families. Fully immersed in coding, I am excited to own  the technical planning, implementation and delivering impactful features as a developer.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
+    "email": "jahaira.marrero@gmail.com",
     "phone": "555-555-5555",
     "address": {
       "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
+      "city": "Brooklyn",
+      "state": "NY",
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "http://www.timbakerdev.com",
@@ -29,17 +29,17 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/jahaira-marrero/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
+        "url": "https://www.instagram.com/jahaira.marrero.dev/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "https://github.com/jahaira-marrero",
         "className": "fa fa-github"
       }
     ]
@@ -48,27 +48,57 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
+        "school": "Flatiron School",
+        "degree": "Certificate",
+        "graduated": "April 2021",
         "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
+        "school": "Long Island University",
+        "degree": "Master Secondary Science Education",
+        "graduated": "September 2012",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "Stony Brook University",
+        "degree": "Bachelor of Science in Health Sciences",
+        "graduated": "May 2005",
         "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
+        "company": "Etoile Academy Charter School",
+        "title": "Dean of Students",
+        "years": "July 2019 - June 2021",
         "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
-        "company": "Super Cool Studio",
+        "company": "KIPP Peace Elementary",
+        "title": "Math Teacher, Grade Level Chair",
+        "years": "March 2007 - February 2010",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "New York City Department of Education",
+        "title": "Biology, Forensic Science Teacher, Grade Level Chair",
+        "years": "March 2007 - February 2010",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "Otterbourg Steindler Houston & Rosen, P.C.",
+        "title": "Administrative Assistant",
+        "years": "March 2007 - February 2010",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "Weill Cornell Medical College",
+        "title": "Curriculum Coordinator",
+        "years": "March 2007 - February 2010",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "Police Athletic League",
         "title": "Junior bug fixer",
         "years": "March 2007 - February 2010",
         "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
