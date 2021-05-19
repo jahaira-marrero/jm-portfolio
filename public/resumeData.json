@@ -7,7 +7,7 @@
     "bio": "Passionate about creating innovative solutions with experience building full stack applications with Ruby, Rails, JavaScript, React, SQL databases, and RESTful API architecture. Emerging from a career in Education, I traded the classroom and school leadership for coding when working with software engineers to improve software usability and create better communication lines to families. Fully immersed in coding, I am excited to own  the technical planning, implementation and delivering impactful features as a developer.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "jahaira.marrero@gmail.com",
-    "phone": "555-555-5555",
+    "phone": "347-561-8717",
     "address": {
       "street": "(Your Street)",
       "city": "Brooklyn",
@@ -24,7 +24,7 @@
       },
       {
         "name": "twitter",
-        "url": "http://twitter.com",
+        "url": "https://twitter.com/marrero_jahaira",
         "className": "fa fa-twitter"
       },
       {
@@ -71,37 +71,31 @@
         "company": "Etoile Academy Charter School",
         "title": "Dean of Students",
         "years": "July 2019 - June 2021",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description": "Collaborated with the School Leaders to create a school culture scope and sequence that utilizes advisory to model, taught, and rewarded students for character development. Facilitated school culture professional development for all staff including practice and feedback sessions on the school’s discipline system. Observed classes and teachers to give feedback on classroom culture and the implementation of the schoolwide discipline system. Conducted weekly coaching to include goal setting with staff around improving school culture. Provided clear, consistent consequences to mid-level and high-level student behaviors. Responded directly to high-level student behaviors and supported teachers in responding to low-level behaviors. Established and communicated clear objectives for all learning activities. Identified and selected different instructional resources and methods to meet students' varying needs."
       },
       {
         "company": "KIPP Peace Elementary",
         "title": "Math Teacher, Grade Level Chair",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "years": "February 2018 - June 2019",
+        "description": "Designed lesson plans and presentations for Math classes designed to remediate and accelerate curriculum for elementary students. education, special education, and Honors students Keep updated with developments in the subject area, teaching resources and methods, and make relevant changes to instructional plans and activities. Maintain discipline in accordance with the rules and disciplinary systems of the school."
       },
       {
         "company": "New York City Department of Education",
         "title": "Biology, Forensic Science Teacher, Grade Level Chair",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "years": "September 2012 - June 2017",
+        "description": "Delivered Biology instruction while regulating excellent classroom management skills to maximize student learning. Integrated multiple teaching styles to intensify the range of learning, while redesigning a curriculum aligned with the New York City Biology scope and sequence. Implemented curriculum utilizing project-based education and alternative assessments, integrated a Scientific Literacy Curriculum aligned to the Common Core Standards."
       },
       {
         "company": "Otterbourg Steindler Houston & Rosen, P.C.",
         "title": "Administrative Assistant",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "years": "March 2008 - January 2012",
+        "description": "Served as the first point of contact for guests, answered phones, and maintained files. Developed, implemented, directed, and managed projects and administrative operations; established priorities and meeting deadlines for a full range of activities to include short and long-range planning, budget forecasting tracking, and reporting."
       },
       {
         "company": "Weill Cornell Medical College",
         "title": "Curriculum Coordinator",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company": "Police Athletic League",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "years": "August 2006 - March 2008",
+        "description": "Integrated cross coverage for the faculty with the delivery of lectures, small groups, labs and coordinated specific needs accordingly. Spear headed accurate student grades by compiling scored exams and standardizing, modified test scoring through quantitative reports. Prioritized the completion of student evaluations by faculty for score reports."
       }
     ],
     "skills": [
@@ -138,34 +132,22 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
+        "title": "Dismissal Made Easy",
         "category": "My Travel Blog for my post-university travels",
         "image": "canadian-wanderlust.jpg",
         "url": "https://www.canadianwanderlust.com"
       },
       {
-        "title": "Fury Fighting Gear",
+        "title": "My Watch List",
         "category": "(offline now) A fighting gear company I started",
         "image": "fury-fighting-gear.jpg",
         "url": "http://www.timbakerdev.com"
       },
       {
-        "title": "Original Thai Food",
+        "title": "Retake University",
         "category": "Website I built for a restaurant I like in Thailand",
         "image": "original-thai-food.jpg",
         "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
       }
     ]
   },
