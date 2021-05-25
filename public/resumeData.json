@@ -2,10 +2,10 @@
   "main": {
     "name": "Jahaira Marrero",
     "occupation": "Software Engineer",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description": "",
     "image": "profilepic.jpg",
-    "bio": "Passionate about creating innovative solutions with experience building full stack applications with Ruby, Rails, JavaScript, React, SQL databases, and RESTful API architecture. Emerging from a career in Education, I traded the classroom and school leadership for coding when working with software engineers to improve software usability and create better communication lines to families. Fully immersed in coding, I am excited to own  the technical planning, implementation and delivering impactful features as a developer.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "bio": "I'm passionate about creating innovative solutions and have with experience building full stack applications with Ruby, Rails, JavaScript, React, SQL databases, and RESTful API architecture. Emerging from a career in Education, I traded the classroom and school leadership for coding when working with software engineers to improve software usability and create better communication lines to families. Fully immersed in coding, I am excited to own  the technical planning, implementation and delivering impactful features as a developer.",
+    "contactmessage": "Contact me using the form below or email me directly.",
     "email": "jahaira.marrero@gmail.com",
     "phone": "347-561-8717",
     "address": {
@@ -17,11 +17,6 @@
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
     "social": [
-      {
-        "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
-        "className": "fa fa-facebook"
-      },
       {
         "name": "twitter",
         "url": "https://twitter.com/marrero_jahaira",
@@ -45,7 +40,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "These are the languages I have experience working with.",
     "education": [
       {
         "school": "Flatiron School",
@@ -100,32 +95,28 @@
     ],
     "skills": [
       {
-        "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "Illustrator",
-        "level": "55%"
-      },
-      {
-        "name": "ReactJs",
-        "level": "50%"
-      },
-      {
-        "name": "CSS",
+        "name": "Ruby",
         "level": "90%"
       },
       {
-        "name": "HTML5",
+        "name": "Ruby on Rails",
         "level": "80%"
       },
       {
-        "name": "VueJs",
+        "name": "JavaScript (ES6)",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
         "level": "50%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "HTML",
+        "level": "50%"
       }
     ]
   },
@@ -135,19 +126,19 @@
         "title": "Dismissal Made Easy",
         "category": "My Travel Blog for my post-university travels",
         "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "url": "https://drive.google.com/file/d/1h033KVQ-9VgP_6ymuPBNs7tTyGx1c-hw/view?usp=sharing"
       },
       {
         "title": "My Watch List",
         "category": "(offline now) A fighting gear company I started",
         "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "url": "https://drive.google.com/file/d/1bF2vR_xWq04fTBJ-s-i9d8TfeFL3JnjH/view?usp=sharing"
       },
       {
         "title": "Retake University",
         "category": "Website I built for a restaurant I like in Thailand",
         "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "url": "https://drive.google.com/file/d/18UMNW__W8VIYYzz0jll55ZOEnpIzjLb3/view?usp=sharing"
       }
     ]
   },
