@@ -129,20 +129,20 @@
     "projects": [
       {
         "title": "Dismissal Made Easy",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
+        "category": "Website I built to make inputting dismissal changes for schools easier for admins and teachers.",
+        "image": "Dismissal-Made-Easy.png",
         "url": "https://drive.google.com/file/d/1h033KVQ-9VgP_6ymuPBNs7tTyGx1c-hw/view?usp=sharing"
       },
       {
         "title": "My Watch List",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
+        "category": "Website I built that allows you to search for a movie by name and add to the appropriate streaming service you are subscribed to.",
+        "image": "My-Watch-List.png",
         "url": "https://drive.google.com/file/d/1bF2vR_xWq04fTBJ-s-i9d8TfeFL3JnjH/view?usp=sharing"
       },
       {
         "title": "Retake University",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
+        "category": "Website I built that allows you to enroll in courses at the school.",
+        "image": "Retake-University.png",
         "url": "https://drive.google.com/file/d/18UMNW__W8VIYYzz0jll55ZOEnpIzjLb3/view?usp=sharing"
       }
     ]
