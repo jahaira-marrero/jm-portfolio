@@ -152,7 +152,7 @@
       $.ajax({
 
 	      type: "POST",
-	      url: "jahaira.marrero@gmail.com",
+	      url: "inc/sendEmail.php",
 	      data: data,
 	      success: function(msg) {
 
