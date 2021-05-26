@@ -44,9 +44,9 @@
     "education": [
       {
         "school": "Flatiron School",
-        "degree": "Certificate",
+        "degree": "Software Engineer Certificate",
         "graduated": "April 2021",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description": "Software Engineering Immersive Program designed to equip students with the skills necessary to launch careers in tech. This program includes three months of intensive, full-time on-campus training (classes/lectures, individual, pair and group programming projects, code challenges, presentations and more). The curriculum encompasses a variety of languages, frameworks, and libraries in-depth, including Ruby, Rails, SQL, PostgreSQL, JavaScript, React, Redux, Git, HTML, and CSS."
       },
       {
         "school": "Long Island University",
@@ -62,6 +62,11 @@
       }
     ],
     "work": [
+      {"company": "Flatiron School",
+        "title": "Student Software Engineer",
+        "years": "January 2021 - April 2021",
+        "description": "Completed over 1000+ hours of intensive training through lectures, individual, pair and group programming projects, code challenges and presentations. Acquired and applied full stack skills in Ruby,mJavascript (ES6), Rails, React, HTML and CSS."
+      },
       {
         "company": "Etoile Academy Charter School",
         "title": "Dean of Students",
