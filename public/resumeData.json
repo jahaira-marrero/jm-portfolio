@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Jahaira Marrero",
-    "occupation": "Software Engineer",
+    "occupation": "Data Engineer",
     "description": "",
     "image": "profilepic.jpg",
     "bio": "I'm passionate about creating innovative solutions and have with experience building full stack applications with Ruby, Rails, JavaScript, React, SQL databases, and RESTful API architecture. Emerging from a career in Education, I traded the classroom and school leadership for coding when working with software engineers to improve software usability and create better communication lines to families. Fully immersed in coding, I am excited to own  the technical planning, implementation and delivering impactful features as a developer.",
@@ -62,6 +62,10 @@
       }
     ],
     "work": [
+      {"company": "Capgemini",
+        "title": "Data Engineer",
+        "years": "July 2021 - Present"
+      },
       {"company": "Flatiron School",
         "title": "Student Software Engineer",
         "years": "January 2021 - April 2021",
@@ -99,6 +103,22 @@
       }
     ],
     "skills": [
+      {
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "SQL",
+        "level": "90%"
+      },
+      {
+        "name": "Spark SQL",
+        "level": "90%"
+      },
+      {
+        "name": "Pyspark",
+        "level": "90%"
+      },
       {
         "name": "Ruby",
         "level": "90%"
