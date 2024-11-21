@@ -18,11 +18,6 @@
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
-        "name": "twitter",
-        "url": "https://twitter.com/marrero_jahaira",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/jahaira-marrero/",
         "className": "fa fa-linkedin"
